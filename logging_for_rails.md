@@ -22,7 +22,8 @@
         ```Ruby
         config.lograge.enabled = true 
         ```
-    
+
 
 #### Sources: 
 - [Logging for Rails apps in Docker - Santiago Palladino](https://manas.tech/blog/2015/12/15/logging-for-rails-apps-in-docker.html)
+- [Docker docs - configuring logging drivers](https://docs.docker.com/config/containers/logging/configure/)
