@@ -17,12 +17,12 @@
     ```Ruby
     config.logger = Logger.new(STDOUT)
     ```
-    - Gem lograge reformats logs for easier parsing and redirects to `STDOUT` automatically 
+    - Gem `lograge` reformats logs for easier parsing and redirects to `STDOUT` automatically 
         - Add `lograge` gem and set 
         ```Ruby
         config.lograge.enabled = true 
         ```
-
+    
 
 #### Sources: 
 - [Logging for Rails apps in Docker - Santiago Palladino](https://manas.tech/blog/2015/12/15/logging-for-rails-apps-in-docker.html)
